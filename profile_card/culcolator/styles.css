@@ -1,0 +1,27 @@
+.calculator {
+        margin-top: 50px;
+        width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #daebcf;
+        color: #000; 
+      }
+      
+      .calculator button {
+        background-color: #fe7a7a;
+        border-color: #333;
+        color: #fff;
+      }
+      
+      .calculator button:hover {
+        background-color: #555;
+      }
+      
+      .calculator button:active {
+        background-color: #777;
+      }
+      
+      .calculator input {
+        background-color: #8B0000;
+        color:#FF0000
+      }
